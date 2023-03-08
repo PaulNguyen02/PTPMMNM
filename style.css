@@ -609,7 +609,7 @@
     {
         position: absolute;
         top:15%;
-        left: 3%;
+        left: 0;
         list-style-type: none;
         margin: 0;
         padding: 0;
@@ -630,8 +630,8 @@
         color: #7d7e80;
         text-align: center;
         display: block;
-        padding: 4px 2px;
-        font-size: medium;
+        padding: 2px 1px;
+        font-size: small;
     }
     .content
     {
