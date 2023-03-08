@@ -461,8 +461,8 @@
     .nav-bar .menu
     {
         position: absolute;
-        top:15%;
-        left: 3%;
+        top:20%;
+        left: 5%;
         list-style-type: none;
         margin: 0;
         padding: 0;
@@ -483,7 +483,7 @@
         color: #7d7e80;
         text-align: center;
         display: block;
-        padding: 6px 8px;
+        padding: 4px 8px;
         font-size: large;
     }
     .content
