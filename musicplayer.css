@@ -715,8 +715,8 @@
   .content .left .disc
   {
       position: relative;
-      top: 5%;
-      left: 15%;
+      margin-top: 5%;
+      margin-left: 10%;
       background-color: black;
       height: 350px;
       width: 350px;
