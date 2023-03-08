@@ -27,6 +27,7 @@
         background-color: #252527;
         width: 100%;
         height: 80px;
+        z-index: 3;
     }
     .nav-bar .ribbon
     {
@@ -158,6 +159,7 @@
         background-color: #252527;
         width: 100%;
         height: 80px;
+        z-index: 3;
     }
     .nav-bar .ribbon
     {
@@ -288,6 +290,7 @@
         background-color: #252527;
         width: 100%;
         height: 80px;
+        z-index: 3;
     }
     .nav-bar .ribbon
     {
@@ -418,6 +421,7 @@
         background-color: #252527;
         width: 100%;
         height: 60px;
+        z-index: 3;
     }
     .nav-bar .ribbon
     {
